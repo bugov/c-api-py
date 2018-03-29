@@ -1,0 +1,4 @@
+*.so
+.eggs
+.pytest_cache
+*.egg-info
